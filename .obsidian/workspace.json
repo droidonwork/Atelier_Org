@@ -11,10 +11,17 @@
             "id": "2f9f9ca80cc354ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Sandbox Creation.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sandbox Creation"
             }
           }
         ]
@@ -193,8 +200,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8932ab70926b5c09",
+  "active": "2f9f9ca80cc354ec",
   "lastOpenFiles": [
+    "Sandbox Creation.canvas",
+    "Research/Section25_Open_Questions_Resolutions for Integrated Framework.md",
+    "Research/WhatsApp Image 2026-07-26 at 12.47.27.jpeg",
+    "Research/Showcase.md",
+    "Research/Resources.md",
+    "Research/Profile.md",
+    "Research/Ecosystem Framework.md",
+    "Research/Critique framwork V1.md",
+    "Research/Critique V1.md",
+    "04_Brand UI/ATELIER_RESHAPED_ATLANTIS_UI_IMPLEMENTATION_PLAN.md",
+    "01_Index/Research Map.md",
+    "01_Index/Feature Map.md",
+    "01_Index/Community Map.md",
+    "01_Index/Build Map.md",
+    "02_Product Vision/Atelier Principles.md",
+    "01_Index/Atelier Home.md",
     "fdggf.md"
   ]
 }
