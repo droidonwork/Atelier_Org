@@ -15,8 +15,8 @@
               "state": {
                 "file": "Sandbox Creation.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 341,
+                  "y": -201,
                   "zoom": 0
                 }
               },
@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sandbox Creation.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sandbox Creation.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fdggf.md",
+                "file": "Sandbox Creation.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,7 +174,7 @@
             }
           },
           {
-            "id": "dfe1eea7a48fc396",
+            "id": "351807f59cbf735e",
             "type": "leaf",
             "state": {
               "type": "git-view",
