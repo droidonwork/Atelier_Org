@@ -23,8 +23,40 @@
               "icon": "lucide-layout-dashboard",
               "title": "New Sandbox"
             }
+          },
+          {
+            "id": "1f04c9a00368e46f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "sandbox.canvas",
+                "viewState": {
+                  "x": 99,
+                  "y": -186,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "sandbox"
+            }
+          },
+          {
+            "id": "52d9b765ebab5fc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Sandbox.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -202,27 +234,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d835cda4b5109cf",
+  "active": "52d9b765ebab5fc4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "New Sandbox.canvas",
-    "Sandbox Creation.canvas",
     "sandbox.canvas",
+    "Research/Framwork Generation.canvas",
+    "Research/Pasted image 20260726132830.png",
+    "Product Philosophy.md",
+    "conflict-files-obsidian-git.md",
+    "2026-09-07.md",
+    "2026-08-28.md",
+    "New Sandbox.canvas",
+    "Research/Profile.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Research/Resources.md",
     "Research/Section25_Open_Questions_Resolutions for Integrated Framework.md",
     "Research/WhatsApp Image 2026-07-26 at 12.47.27.jpeg",
     "Research/Showcase.md",
-    "Research/Resources.md",
-    "Research/Profile.md",
+    "Team structure/00-Atelier-Team-Structure-MOC.md",
+    "Team structure/01-RnD-Lead.md",
+    "Team structure/02-Technical-Lead.md",
+    "Team structure/03-Support-Moderation-Lead.md",
+    "Team structure/04-Management-Idea-Lead.md",
     "Research/Ecosystem Framework.md",
-    "Research/Critique framwork V1.md",
-    "Research/Critique V1.md",
+    "Research/14_MONETIZATION_FUNDING_RESEARCH.md",
+    "Research/13_GROWTH_DISCOVERY_RESEARCH.md",
+    "Research/11_SECURITY_RESEARCH.md",
+    "Research/10_TECHNICAL_ARCHITECTURE_RESEARCH.md",
     "04_Brand UI/ATELIER_RESHAPED_ATLANTIS_UI_IMPLEMENTATION_PLAN.md",
-    "01_Index/Research Map.md",
-    "01_Index/Feature Map.md",
     "01_Index/Community Map.md",
+    "01_Index/Codex Map.md",
     "01_Index/Build Map.md",
-    "02_Product Vision/Atelier Principles.md",
     "01_Index/Atelier Home.md",
-    "fdggf.md"
+    "02_Product Vision/Atelier Principles.md",
+    "01_Index/UI Map.md",
+    "Sandbox Creation.canvas"
   ]
 }

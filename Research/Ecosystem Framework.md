@@ -38,15 +38,15 @@ That is the MVP boundary developed in §23. Everything else (Odyssey as a true d
 
 The five spaces map to distinct jobs:
 
-| Space | Job | Fundamental unit |
-|---|---|---|
-| Discussion | Ask, discuss, exchange knowledge, form community | A thread |
-| Critique | Improve actual work through structured feedback | An improvement cycle (v1 → v2 → v3 → resolved) |
-| Resource | Preserve reusable knowledge | A contextualized reference |
-| Showcase | Present finished work, build credibility | A graduated project |
-| Odyssey | Discover and navigate the ecosystem | Not yet concretely defined — see §10 |
-| Profile | Record identity, contribution, growth, credibility | A trust-then-proof narrative |
-| Honor | Convert contribution into trust and permission | A weighted, source-attributed score |
+| Space      | Job                                                | Fundamental unit                               |
+| ---------- | -------------------------------------------------- | ---------------------------------------------- |
+| Discussion | Ask, discuss, exchange knowledge, form community   | A thread                                       |
+| Critique   | Improve actual work through structured feedback    | An improvement cycle (v1 → v2 → v3 → resolved) |
+| Resource   | Preserve reusable knowledge                        | A contextualized reference                     |
+| Showcase   | Present finished work, build credibility           | A graduated project                            |
+| Odyssey    | Discover and navigate the ecosystem                | Not yet concretely defined — see §10           |
+| Profile    | Record identity, contribution, growth, credibility | A trust-then-proof narrative                   |
+| Honor      | Convert contribution into trust and permission     | A weighted, source-attributed score            |
 
 **[INFERENCE]** The one architectural decision that everything else depends on: Discussion and Critique must never collapse into "posts + comments" with a category filter. The screenshot distinction (Discussion = "how do I approach this?", Critique = "review this specific work through defined stages") has to be enforced at the *data model* level (different schemas, different lifecycle states), not just the UI label level, or the differentiation erodes the first time someone builds a generic post composer for both.
 
