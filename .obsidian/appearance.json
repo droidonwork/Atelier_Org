@@ -2,5 +2,9 @@
   "cssTheme": "",
   "baseFontSizeAction": true,
   "theme": "obsidian",
+<<<<<<< HEAD
   "accentColor": ""
+=======
+  "accentColor": "#9b0d3f"
+>>>>>>> origin/obsidian_research
 }
